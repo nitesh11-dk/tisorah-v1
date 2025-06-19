@@ -1,5 +1,5 @@
-import Component from "../boxup-header"
+import Landing from "../pages/Landing"
 
 export default function Page() {
-  return <Component />
+  return <Landing />
 }
